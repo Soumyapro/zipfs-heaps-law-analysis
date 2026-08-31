@@ -16,7 +16,7 @@ A short project verifying two well known statistical laws of natural language, Z
 ### Zipf's Law
 Word frequency plotted against rank on a log log scale.
 
-![Zipf's Law plot](zipf_law.png)
+![Zipf's Law plot](zipfs_law.png)
 
 - Exponent (s): **≈ 0.85**
 - R²: **≈ 0.99**
