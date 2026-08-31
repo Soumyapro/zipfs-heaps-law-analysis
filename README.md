@@ -26,7 +26,7 @@ The plot shows a strong linear relationship in the higher ranked words. The tail
 ### Heap's Law
 Vocabulary size (unique words) plotted against total words read, on a log log scale.
 
-![Heap's Law plot](heap_law.png)
+![Heap's Law plot](heaps_law.png)
 
 - Exponent (β): **≈ 0.64**
 - R²: **≈ 0.98**
